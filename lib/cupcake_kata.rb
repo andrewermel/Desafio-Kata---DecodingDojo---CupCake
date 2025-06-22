@@ -1,0 +1,8 @@
+require_relative 'cake'
+require_relative 'cupcake'
+require_relative 'cookie'
+require_relative 'topping_decorator'
+require_relative 'chocolate'
+require_relative 'nuts'
+require_relative 'sugar'
+require_relative 'bundle'
