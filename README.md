@@ -1,4 +1,4 @@
-# Desafio BEMP - Kata Cupcake
+# Desafio - Kata Cupcake
 
 ## Problema Escolhido
 
